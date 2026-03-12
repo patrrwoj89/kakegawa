@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+<addon id="repository.kakegawa"
+       name="Kakegawa Repository"
+       version="1.0.0"
+       provider-name="Kakegawa">
+
+    <extension point="xbmc.addon.repository">
+        <dir>
+            <info>https://patrrwoj89.github.io/kakegawa/addons.xml</info>
+            <checksum>https://patrrwoj89.github.io/kakegawa/addons.xml.md5</checksum>
+            <datadir>https://patrrwoj89.github.io/kakegawa/addons/</datadir>
+        </dir>
+    </extension>
+
+</addon>
+
+</addons>
